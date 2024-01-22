@@ -25,7 +25,7 @@
 </p>
 
 ### Summary
-I am currently pursuing a Master's of Science degree in Statistics at the University of Illinois Urbana-Champaign where I am taking courses in statistics and computer science. I hold a Master's of Science degree in Economics from the University of Wisconsin-Madison. Prior to entering the statistics program, I worked professionally for 5 years as a data scientist in the healthcare industry creating novel transformer and recommender system models.
+I am currently pursuing a Master's of Science degree in Statistics at the University of Illinois Urbana-Champaign where I am taking courses in statistics and computer science. I hold a Master's of Science degree in Economics from the University of Wisconsin-Madison. Prior to entering the statistics program, I worked professionally for 5 years as a data scientist in the healthcare industry creating novel transformer, recommender system, and time series forecasting models.
 
 ### Highlights
 📖 Pursuing Master's in Statistics @ [The University of Illinois Urbana-Champaign](https://stat.illinois.edu/academics/graduate-programs/ms-statistics). 
