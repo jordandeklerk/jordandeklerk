@@ -32,7 +32,7 @@ I am currently pursuing a Master of Science degree in Statistics at the Universi
 
 📖 Completed Master's in Economics @ [The University of Wisconsin-Madison](https://econ.wisc.edu).
 
-💻 Currently building open-source projects in recommender systems, computer vision, and automatic speech recognition. 
+💻 Currently building open-source projects in graph neural network community detection, computer vision image classification, and automatic speech recognition. 
 
 ### 🖥️ Open-Source Projects
 <table>
