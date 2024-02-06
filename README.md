@@ -4,11 +4,11 @@
 </a>
 <br/>
 
-<a href="">
+<a href="https://drive.google.com/file/d/1HVTSCM_Mfs7CJxjLSe4PM4bX1qsPYntZ/view?usp=sharing">
     <img src="https://img.shields.io/badge/Website-Coming-red?style=flat-square">
 </a>  
 <a href="">
-    <img src="https://img.shields.io/badge/PDF-Coming-red?style=flat-square&logo=adobe">
+    <img src="https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/jordandeklerk">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
