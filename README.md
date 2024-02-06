@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Website-Coming-red?style=flat-square">
 </a>  
 <a href="">
-    <img src="https://img.shields.io/badge/-Resume-red?style=flat-square&logo=adobe">
+    <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/jordandeklerk">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
