@@ -4,8 +4,8 @@
 </a>
 <br/>
 
-<a href="https://drive.google.com/file/d/1HVTSCM_Mfs7CJxjLSe4PM4bX1qsPYntZ/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Website-Coming-red?style=flat-square">
+<a href="https://jordandeklerk.github.io">
+    <img src="https://img.shields.io/badge/Website-red?style=flat-square">
 </a>  
 <a href="">
     <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe">
