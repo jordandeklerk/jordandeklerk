@@ -34,15 +34,16 @@ I am currently pursuing a Master of Science degree in Statistics at the Universi
 
 💻 Currently building open-source projects in graph neural network community detection, computer vision image classification, and automatic speech recognition. 
 
-### 🖥️ Open-Source Projects
+### 🖥️ Selected Open-Source Projects
 <table>
 <tr><th>Machine Learning <tr><tr>
 <tr><td>
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Amortized Bayes](https://github.com/jordandeklerk/Amortized-Bayes.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/Conformer?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [DetNet - YOLO](https://github.com/jordandeklerk/DetNet-YOLO.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/Conformer?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+| [Starcoder2-3B-Finetune](https://github.com/jordandeklerk/Starcoder2-3B-Finetune-Code-Completion.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/Starcoder2-3B-Finetune-Code-Completion?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+| [openCodeInterpreter-DS-6.7B-Finetune](https://github.com/jordandeklerk/OpenCodeInterpreter-Finetune-SQL.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/OpenCodeInterpreter-Finetune-SQL?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+| [Amortized Bayes](https://github.com/jordandeklerk/amortized-bayes.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/Conformer?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [RotNet](https://github.com/jordandeklerk/RotNet.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/Conformer?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [Gaussian Image](https://github.com/jordandeklerk/Gaussian-Image.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/Conformer?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [Swin Transformer](https://github.com/jordandeklerk/SwinViT.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/Conformer?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
@@ -51,5 +52,3 @@ I am currently pursuing a Master of Science degree in Statistics at the Universi
 | [Fast ResNet](https://github.com/jordandeklerk/Fast-ResNet.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/Conformer?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [ResNet](https://github.com/jordandeklerk/ResNet.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/Conformer?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [Squeeze and Excitation ResNet](https://github.com/jordandeklerk/SENet.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/Conformer?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [Simple GNN](https://github.com/jordandeklerk/Simple-GNN.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/Conformer?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [Conformer ASR](https://github.com/jordandeklerk/Conformer.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/Conformer?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
