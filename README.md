@@ -43,6 +43,7 @@ Prior to my current studies, I worked for five years as a data scientist in the 
 
 |Title | Stars | Technologies|
 |--|--|--|
+| [OracleCoder](https://github.com/jordandeklerk/OracleCoder.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/OracleCoder?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [OpenCodeInterpreter-DS-6.7B-Finetune](https://github.com/jordandeklerk/OpenCodeInterpreter-Finetune-SQL.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/OpenCodeInterpreter-Finetune-SQL?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [Starcoder2-3B-Finetune](https://github.com/jordandeklerk/Starcoder2-Finetune-Code-Completion.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/Starcoder2-Finetune-Code-Completion?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [Amortized Bayes](https://github.com/jordandeklerk/amortized-bayes.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/amortized-bayes?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
