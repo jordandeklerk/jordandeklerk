@@ -25,9 +25,9 @@
 </p>
 
 ### Summary
-I am currently pursuing a Master of Science degree in Statistics at the University of Illinois Urbana-Champaign, and will graduate in May 2024. My coursework encompasses a range of subjects within statistics and computer science, including deep learning, computer vision, and Bayesian machine learning. I also hold a Master of Science degree in Economics from the University of Wisconsin-Madison, with a specialization in applied econometrics and causal inference.
+Having recently graduated with a Master of Science degree in Statistics from the University of Illinois Urbana-Champaign in May 2024, I have developed a robust foundation in various statistical and computer science disciplines, including deep learning, computer vision, and Bayesian machine learning. Additionally, I hold a Master of Science degree in Economics from the University of Wisconsin-Madison, where I specialized in applied econometrics and causal inference.
 
-Prior to my current studies, I worked for five years as a data scientist in the healthcare industry, focusing on developing transformer models, latent variable models, causal inference models, and time series forecasting models.
+Before my recent academic pursuits, I accumulated five years of experience as a data scientist in the healthcare industry, focusing on developing transformer models, latent variable models, causal inference models, and time series forecasting models.
 
 ### Highlights
 📖 Completed Master's in Statistics @ [The University of Illinois Urbana-Champaign](https://stat.illinois.edu/academics/graduate-programs/ms-statistics). 
