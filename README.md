@@ -30,11 +30,11 @@ I am currently pursuing a Master of Science degree in Statistics at the Universi
 Prior to my current studies, I worked for five years as a data scientist in the healthcare industry, focusing on developing transformer models, latent variable models, causal inference models, and time series forecasting models.
 
 ### Highlights
-📖 Pursuing Master's in Statistics @ [The University of Illinois Urbana-Champaign](https://stat.illinois.edu/academics/graduate-programs/ms-statistics). 
+📖 Completed Master's in Statistics @ [The University of Illinois Urbana-Champaign](https://stat.illinois.edu/academics/graduate-programs/ms-statistics). 
 
 📖 Completed Master's in Economics @ [The University of Wisconsin-Madison](https://econ.wisc.edu).
 
-💻 Currently building open-source projects in graph neural network community detection, computer vision image classification, and automatic speech recognition. 
+💻 Currently building open-source projects in graph transformer models, LLMs, causal models, and time-series forecasting. 
 
 ### 🖥️ Selected Open-Source Projects
 <table>
