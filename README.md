@@ -9,7 +9,7 @@ import torch.nn.functional as F
 
 class DataScientist(nn.Module):
     def __init__(self):
-        super(DataScientist, self).__init__()
+        super().__init__()
         self.name = "Jordan Deklerk"
         self.role = "Senior Data Scientist"
         self.company = "DICK's Sporting Goods"
