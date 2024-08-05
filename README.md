@@ -17,38 +17,6 @@ class DataScientist(nn.Module):
         self.programming = ["Python", "R", "SQL", "SAS", "STATA"]
         self.tools = ["Azure ML", "AWS Sagemaker", "Databricks", "Spark", "Docker", "Kubeflow", "GCP"]
 
-        self.query = nn.Linear(64, 64)
-        self.key = nn.Linear(64, 64)
-        self.value = nn.Linear(64, 64)
-        self.exp_embed = nn.Embedding(len(self.experience), 64)
-        self.prog_embed = nn.Embedding(len(self.programming), 64)
-        self.tool_embed = nn.Embedding(len(self.tools), 64)
-
-    def self_attention(self, x):
-        q = self.query(x)
-        k = self.key(x)
-        v = self.value(x)
-        
-        attention_logits = torch.einsum('bik,bjk->bij', q, k) / (64 ** 0.5)
-        attention_weights = F.softmax(attention_logits, dim=-1)
-        attended = torch.einsum('bij,bjk->bik', attention_weights, v)
-        
-        return attended
-
-    def forward(self, focus):
-        focus_dict = {"experience": 0, "programming": 1, "tools": 2}
-        focus_idx = focus_dict.get(focus, 0)
-        
-        exp_emb = self.exp_embed(torch.arange(len(self.experience)))
-        prog_emb = self.prog_embed(torch.arange(len(self.programming)))
-        tool_emb = self.tool_embed(torch.arange(len(self.tools)))
-        all_emb = torch.cat([exp_emb, prog_emb, tool_emb], dim=0).unsqueeze(0) 
-
-        attended = self.self_attention(all_emb)
-        focused = attended[0, focus_idx]  
-        
-        return focused
-
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
