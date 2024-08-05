@@ -1,50 +1,98 @@
-<p align="center">
-<a href="https://github.com/jordandeklerk">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jordan+Deklerk;Statistics+%7C+MS+Student+%7C+Data+Scientist;Deep+Learning+%7C+Coding+LLMs+%7C+Causal+Inference" alt="Typing SVG" />
+```markdown
+# Hello there 👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jordandeklerk.jordandeklerk)
+
+```python
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+
+class DataScientist(nn.Module):
+    def __init__(self):
+        super(DataScientist, self).__init__()
+        self.name = "Jordan Deklerk"
+        self.role = "Senior Data Scientist"
+        self.company = "DICK's Sporting Goods"
+        self.experience = ["Retail", "Healthcare"]
+        self.programming = ["Python", "R", "SQL", "SAS", "STATA"]
+        self.tools = ["Azure ML", "AWS Sagemaker", "Databricks", "Spark", "Docker", "Kubeflow", "GCP"]
+
+        self.query = nn.Linear(64, 64)
+        self.key = nn.Linear(64, 64)
+        self.value = nn.Linear(64, 64)
+        self.exp_embed = nn.Embedding(len(self.experience), 64)
+        self.prog_embed = nn.Embedding(len(self.programming), 64)
+        self.tool_embed = nn.Embedding(len(self.tools), 64)
+
+    def self_attention(self, x):
+        q = self.query(x)
+        k = self.key(x)
+        v = self.value(x)
+        
+        attention_logits = torch.einsum('bik,bjk->bij', q, k) / (64 ** 0.5)
+        attention_weights = F.softmax(attention_logits, dim=-1)
+        attended = torch.einsum('bij,bjk->bik', attention_weights, v)
+        
+        return attended
+
+    def forward(self, focus):
+        focus_dict = {"experience": 0, "programming": 1, "tools": 2}
+        focus_idx = focus_dict.get(focus, 0)
+        
+        exp_emb = self.exp_embed(torch.arange(len(self.experience)))
+        prog_emb = self.prog_embed(torch.arange(len(self.programming)))
+        tool_emb = self.tool_embed(torch.arange(len(self.tools)))
+        all_emb = torch.cat([exp_emb, prog_emb, tool_emb], dim=0).unsqueeze(0) 
+
+        attended = self.self_attention(all_emb)
+        focused = attended[0, focus_idx]  
+        
+        return f"Hi, I'm {self.name}. Today, I'm feeling particularly excited about my {focus}. I hope you find some of my work interesting!"
+
+me = DataScientist()
+print(me.forward("experience"))
+print(me.forward("programming"))
+print(me.forward("tools"))
+```
+
+## 📝 Website and Socials
+
+- Personal website: [jordandeklerk.com](https://jordandeklerk.com)
+- LinkedIn: [linkedin.com/in/jordandeklerk](https://www.linkedin.com/in/jordandeklerk)
+
+## 📔 Latest Machine Learning Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [An Introduction to Reinforcement Learning](https://ml-tutorials.netlify.app/blog/rl-intro/)
+- [Masked Token Learning for Inpatient Diagnosis and Procedure Prediction](https://ml-tutorials.netlify.app/blog/ehr-bert/)
+- [Closing the Amortization Gap in Bayesian Deep Generative Models](https://ml-tutorials.netlify.app/blog/amortized-bayes/)
+<!-- BLOG-POST-LIST:END -->
+
+## 🔧 Technologies & Tools
+
+**Cloud Services:**
+
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+**Programming Languages:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-0066B8?style=flat&logo=sas&logoColor=white) ![STATA](https://img.shields.io/badge/STATA-1D91C2?style=flat&logo=stata&logoColor=white)
+
+**Tools and Services:**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=flat&logo=databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/jordandeklerk/EHR-BERT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jordandeklerk&repo=EHR-BERT&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="EHR-BERT" />
 </a>
-<br/>
 
-<a href="https://jordandeklerk.github.io">
-    <img src="https://img.shields.io/badge/Website-red?style=flat-square">
-</a>  
-<!-- <a href="">
-    <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe"> -->
-</a>  
-<a href="https://www.linkedin.com/in/jordandeklerk">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:deklerk3@illinois.edu">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-
-<br/> 
-
-<a href="https://github.com/jordandeklerk">
-    <img src="https://github-stats-alpha.vercel.app/api?username=jordandeklerk&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<a href="https://github.com/jordandeklerk/Amortized-Bayes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jordandeklerk&repo=Amortized-Bayes&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Amortized Bayes" />
 </a>
 
-</p>
-
-### Summary
-Having recently graduated with a Master of Science degree in Statistics from the University of Illinois Urbana-Champaign in May 2024, I have developed a robust foundation in various statistical and computer science disciplines, including deep learning, computer vision, and Bayesian machine learning. Additionally, I hold a Master of Science degree in Economics from the University of Wisconsin-Madison, where I specialized in applied econometrics and causal inference.
-
-Before my recent academic pursuits, I accumulated five years of experience as a data scientist in the healthcare industry, focusing on developing transformer models, latent variable models, causal inference models, and time series forecasting models.
-
-### Highlights
-📖 Completed Master's in Statistics @ [The University of Illinois Urbana-Champaign](https://stat.illinois.edu/academics/graduate-programs/ms-statistics). 
-
-📖 Completed Master's in Economics @ [The University of Wisconsin-Madison](https://econ.wisc.edu).
-
-💻 Currently building open-source projects in graph transformer models, LLMs, causal models, and time-series forecasting. 
-
-### 🖥️ Selected Open-Source Projects
-<table>
-<tr><th>Machine Learning <tr><tr>
-<tr><td>
-
-|Title | Stars | Technologies|
-|--|--|--|
-| [EHR-BERT](https://github.com/jordandeklerk/EHR-BERT.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/EHR-BERT?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [Amortized Bayes](https://github.com/jordandeklerk/amortized-bayes.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/amortized-bayes?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [OpenCodeInterpreter-DS-6.7B-Finetune](https://github.com/jordandeklerk/OpenCodeInterpreter-Finetune-SQL.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/OpenCodeInterpreter-Finetune-SQL?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [Swin Transformer](https://github.com/jordandeklerk/SwinViT.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/SwinViT?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [Starcoder2-3B-Finetune](https://github.com/jordandeklerk/Starcoder2-Finetune-Code-Completion.git) | <img alt="Stars" src="https://img.shields.io/github/stars/jordandeklerk/Starcoder2-Finetune-Code-Completion?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+<a href="https://github.com/jordandeklerk/SwinViT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jordandeklerk&repo=SwinViT&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SwinViT" />
+</a>
