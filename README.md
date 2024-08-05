@@ -1,4 +1,3 @@
-```markdown
 # Hello there 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jordandeklerk.jordandeklerk)
@@ -48,12 +47,13 @@ class DataScientist(nn.Module):
         attended = self.self_attention(all_emb)
         focused = attended[0, focus_idx]  
         
-        return f"Hi, I'm {self.name}. Today, I'm feeling particularly excited about my {focus}. I hope you find some of my work interesting!"
+        return focused
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
 me = DataScientist()
-print(me.forward("experience"))
-print(me.forward("programming"))
-print(me.forward("tools"))
+me.say_hi()
 ```
 
 ## 📝 Website and Socials
@@ -96,4 +96,3 @@ print(me.forward("tools"))
 <a href="https://github.com/jordandeklerk/SwinViT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jordandeklerk&repo=SwinViT&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SwinViT" />
 </a>
-```
