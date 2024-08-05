@@ -27,6 +27,7 @@ me.say_hi()
 ## 📝 Website and Socials
 
 - Personal website: [jordandeklerk.com](https://jordandeklerk.com)
+- Machine Learning Notes and Tutorials: [Machine Learning Notes & Tutorials](https://ml-tutorials.netlify.app)
 - LinkedIn: [linkedin.com/in/jordandeklerk](https://www.linkedin.com/in/jordandeklerk)
 
 ## 📔 Latest Machine Learning Posts
@@ -35,6 +36,7 @@ me.say_hi()
 - [An Introduction to Reinforcement Learning](https://ml-tutorials.netlify.app/blog/rl-intro/)
 - [Masked Token Learning for Inpatient Diagnosis and Procedure Prediction](https://ml-tutorials.netlify.app/blog/ehr-bert/)
 - [Closing the Amortization Gap in Bayesian Deep Generative Models](https://ml-tutorials.netlify.app/blog/amortized-bayes/)
+- [Fine-Tuning a Coding LLM for SQL Code Generation](https://ml-tutorials.netlify.app/blog/open-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
@@ -51,7 +53,7 @@ me.say_hi()
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=flat&logo=databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
-## 🗂️ Highlight Projects
+## 🗂️ Open Source Projects
 
 <a href="https://github.com/jordandeklerk/EHR-BERT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jordandeklerk&repo=EHR-BERT&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="EHR-BERT" />
