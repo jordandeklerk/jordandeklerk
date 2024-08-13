@@ -28,7 +28,7 @@ me.say_hi()
 - Personal website: [jordandeklerk.com](https://jordandeklerk.com)
 - LinkedIn: [linkedin.com/in/jordandeklerk](https://www.linkedin.com/in/jordandeklerk)
 - Machine Learning Notes and Tutorials: [ML Notes](https://ml-tutorials.netlify.app)
-- Resume: [Resume](https://drive.google.com/file/d/1XWA-gPYVIcG2WAGSnnOOYPh4adtPKLra/view?usp=share_link)
+- Resume: [Resume](https://drive.google.com/file/d/1GOgXnknt7Z8xqMGDZMY6vPUiXgA3Uy9O/view?usp=share_link)
 
 ## 📔 Latest Machine Learning Posts
 
