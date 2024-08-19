@@ -32,6 +32,12 @@ me.say_hi()
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordandeklerk" alt="jordandeklerk" /></a> </p>
 
+## 📝 Website and Socials
+<p align="left">
+<a href="https://jordandeklerk.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jordandeklerk.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jordandeklerk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordandeklerk" height="30" width="40" /></a>
+<a href="https://ml-tutorials.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="jordandeklerk" height="30" width="40" /></a>
+</p>
 
 ## 📔 Latest Machine Learning Posts
 
