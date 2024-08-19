@@ -120,8 +120,9 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jordandeklerk&repo=SwinViT&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SwinViT" />
 </a>
 
-<br>
+<br><br>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordandeklerk&show_icons=true&locale=en" alt="jordandeklerk" />
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jordandeklerk&show_icons=true&locale=en" alt="jordandeklerk" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jordandeklerk&" alt="jordandeklerk" />
 </p>
