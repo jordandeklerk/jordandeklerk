@@ -120,6 +120,10 @@ me.say_hi()
 
 <br><br>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordandeklerk&show_icons=true&locale=en" alt="jordandeklerk" />
-</p>
+## My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jordandeklerk&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jordandeklerk&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jordandeklerk&theme=dracula)
+
