@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello, I'm Jordan 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jordandeklerk.jordandeklerk)
 
@@ -22,13 +22,28 @@ class DataScientist(nn.Module):
 me = DataScientist()
 me.say_hi()
 ```
+<br>
+
+- 🔭 I’m currently working on **Bayesian Media Mix Modeling**
+
+- 📫 How to reach me **jdeklerk10@gmail.com**
+
+- 📄 Learn about my experiences [Resume](https://drive.google.com/file/d/1GOgXnknt7Z8xqMGDZMY6vPUiXgA3Uy9O/view?usp=share_link)
+
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordandeklerk" alt="jordandeklerk" /></a> </p>
+
+<br>
 
 ## 📝 Website and Socials
+<p align="left">
+<a href="https://jordandeklerk.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jordandeklerk.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jordandeklerk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordandeklerk" height="30" width="40" /></a>
+<a href="https://ml-tutorials.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="jordandeklerk" height="30" width="40" /></a>
+</p>
 
-- Personal website: [jordandeklerk.com](https://jordandeklerk.com)
-- LinkedIn: [linkedin.com/in/jordandeklerk](https://www.linkedin.com/in/jordandeklerk)
-- Machine Learning Notes and Tutorials: [ML Notes](https://ml-tutorials.netlify.app)
-- Resume: [Resume](https://drive.google.com/file/d/1GOgXnknt7Z8xqMGDZMY6vPUiXgA3Uy9O/view?usp=share_link)
+<br>
 
 ## 📔 Latest Machine Learning Posts
 
@@ -38,20 +53,64 @@ me.say_hi()
 - [Closing the Amortization Gap in Bayesian Deep Generative Models](https://ml-tutorials.netlify.app/blog/amortized-bayes/)
 - [Fine-Tuning a Coding LLM for SQL Code Generation](https://ml-tutorials.netlify.app/blog/open-code/)
 <!-- BLOG-POST-LIST:END -->
+<br>
 
 ## 🔧 Technologies & Tools
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+    </a> 
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+    </a> 
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+    </a> 
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+    </a> 
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    </a> 
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    </a> 
+</p>
 
-**Cloud Services:**
-
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-**Programming Languages:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-0066B8?style=flat&logo=sas&logoColor=white) ![STATA](https://img.shields.io/badge/STATA-1D91C2?style=flat&logo=stata&logoColor=white)
-
-**Tools and Services:**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=flat&logo=databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+<br>
 
 ## 🗂️ Open Source Projects
 
@@ -66,3 +125,10 @@ me.say_hi()
 <a href="https://github.com/jordandeklerk/SwinViT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jordandeklerk&repo=SwinViT&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SwinViT" />
 </a>
+
+<br><br>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordandeklerk&show_icons=true&locale=en" alt="jordandeklerk" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordandeklerk&" alt="jordandeklerk" />
+</p>
