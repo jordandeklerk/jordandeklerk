@@ -29,11 +29,9 @@ me.say_hi()
 
 - 📄 Learn about my experiences [Resume](https://drive.google.com/file/d/1GOgXnknt7Z8xqMGDZMY6vPUiXgA3Uy9O/view?usp=share_link)
 
-<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordandeklerk" alt="jordandeklerk" /></a> </p>
 
-<br>
 
 ## 📝 Website and Socials
 <p align="left">
@@ -42,7 +40,6 @@ me.say_hi()
 <a href="https://ml-tutorials.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="jordandeklerk" height="30" width="40" /></a>
 </p>
 
-<br>
 
 ## 📔 Latest Machine Learning Posts
 
@@ -52,7 +49,6 @@ me.say_hi()
 - [Closing the Amortization Gap in Bayesian Deep Generative Models](https://ml-tutorials.netlify.app/blog/amortized-bayes/)
 - [Fine-Tuning a Coding LLM for SQL Code Generation](https://ml-tutorials.netlify.app/blog/open-code/)
 <!-- BLOG-POST-LIST:END -->
-<br>
 
 ## 🔧 Technologies & Tools
 <p align="left"> 
@@ -109,7 +105,6 @@ me.say_hi()
     </a> 
 </p>
 
-<br>
 
 ## 🗂️ Open Source Projects
 
@@ -125,9 +120,8 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jordandeklerk&repo=SwinViT&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SwinViT" />
 </a>
 
-<br><br>
+<br>
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordandeklerk&show_icons=true&locale=en" alt="jordandeklerk" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordandeklerk&" alt="jordandeklerk" />
 </p>
