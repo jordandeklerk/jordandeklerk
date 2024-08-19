@@ -120,8 +120,6 @@ me.say_hi()
 
 <br><br>
 
-## My Github Stats
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jordandeklerk&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jordandeklerk&theme=dracula) 
