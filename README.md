@@ -22,7 +22,6 @@ class DataScientist(nn.Module):
 me = DataScientist()
 me.say_hi()
 ```
-<br>
 
 - 🔭 I’m currently working on **Bayesian Media Mix Modeling**
 
@@ -128,7 +127,7 @@ me.say_hi()
 
 <br><br>
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordandeklerk&show_icons=true&locale=en" alt="jordandeklerk" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordandeklerk&" alt="jordandeklerk" />
 </p>
