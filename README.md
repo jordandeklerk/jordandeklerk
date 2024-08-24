@@ -27,7 +27,7 @@ me.say_hi()
 
 - 📫 How to reach me **jordan.deklerk@gmail.com**
 
-- 📄 Learn about my experiences [Resume](https://drive.google.com/file/d/1GOgXnknt7Z8xqMGDZMY6vPUiXgA3Uy9O/view?usp=share_link)
+- 📄 Learn about my experiences [Resume](https://drive.google.com/file/d/1R7JUDjQbMZQ9ykwFF6QANORwPxpwBQug/view?usp=share_link)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordandeklerk" alt="jordandeklerk" /></a> </p>
