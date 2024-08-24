@@ -25,7 +25,7 @@ me.say_hi()
 
 - 🔭 I’m currently working on **Bayesian Media Mix Modeling**
 
-- 📫 How to reach me **jdeklerk10@gmail.com**
+- 📫 How to reach me **jordan.deklerk@gmail.com**
 
 - 📄 Learn about my experiences [Resume](https://drive.google.com/file/d/1GOgXnknt7Z8xqMGDZMY6vPUiXgA3Uy9O/view?usp=share_link)
 
