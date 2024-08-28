@@ -34,7 +34,7 @@ me.say_hi()
 
 ## 📝 Website and Socials
 <p align="left">
-<a href="https://jordandeklerk.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jordandeklerk.com" height="30" width="40" /></a>
+<a href="https://jordan-deklerk.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jordandeklerk.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jordandeklerk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordandeklerk" height="30" width="40" /></a>
 <a href="https://ml-tutorials.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="jordandeklerk" height="30" width="40" /></a>
 </p>
