@@ -3,24 +3,22 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jordandeklerk.jordandeklerk)
 
 ```python
-import torch
-import torch.nn as nn
-
-class DataScientist(nn.Module):
+class DataScientist:
     def __init__(self):
         super().__init__()
         self.name = "Jordan Deklerk"
         self.role = "Senior Data Scientist"
         self.company = "DICK's Sporting Goods"
         self.experience = ["Retail", "Healthcare"]
-        self.programming = ["Python", "R", "SQL", "SAS", "STATA"]
-        self.tools = ["Azure ML", "AWS Sagemaker", "Databricks", "Spark", "Docker", "Kubeflow", "GCP"]
+        self.programming = ["Python", "R", "SQL", "STATA"]
+        self.tools = ["GCP", "Databricks", "Spark", "Docker", "Kubeflow"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
-me = DataScientist()
-me.say_hi()
+me = DataScientist()  
+me.say_hi()  
+
 ```
 
 - 🔭 I’m currently working on **Bayesian Media Mix Modeling**
