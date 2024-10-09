@@ -106,6 +106,10 @@ me.say_hi()
 
 ## 🗂️ Open Source Projects
 
+<a href="https://github.com/jordandeklerk/BayesFormer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jordandeklerk&repo=BayesFormer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="BayesFormer" />
+</a>
+
 <a href="https://github.com/jordandeklerk/EHR-BERT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jordandeklerk&repo=EHR-BERT&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="EHR-BERT" />
 </a>
