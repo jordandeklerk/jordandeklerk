@@ -27,13 +27,6 @@ me.say_hi()
 
 - 📄 Learn about my experiences [Resume](https://drive.google.com/file/d/1R7JUDjQbMZQ9ykwFF6QANORwPxpwBQug/view?usp=share_link)
 
-## 📝 Website and Socials
-<p align="left">
-<a href="https://jordan-deklerk.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jordandeklerk.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jordandeklerk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordandeklerk" height="30" width="40" /></a>
-<a href="https://ml-tutorials.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="jordandeklerk" height="30" width="40" /></a>
-</p>
-
 ## 📔 Latest Machine Learning Posts
 
 <!-- BLOG-POST-LIST:START -->
