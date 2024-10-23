@@ -10,101 +10,92 @@
   
   <!-- Text Elements -->
   <g fill="#f0f0f0" font-family="Monaco, Consolas, monospace">
-    <!-- Command prompt animation -->
-    <text x="20" y="50" font-size="14">
-      <tspan>$</tspan>
-      <animate attributeName="opacity"
-               values="0;1;0"
-               dur="1.5s"
-               repeatCount="indefinite"/>
-    </text>
+    <!-- Initial prompt -->
+    <text x="20" y="50" font-size="14">$</text>
     
-    <!-- Typing effect for introduction -->
+    <!-- Typing commands -->
     <text x="35" y="50" font-size="14" fill="#63c5da">
       <tspan>about.jordan</tspan>
-      <animate attributeName="opacity"
-               values="0;1"
-               dur="1s"
-               begin="0.5s"
-               fill="freeze"/>
-    </text>
-    
-    <!-- Output text with fade-in animations -->
-    <text x="20" y="80" font-size="14" fill="#98c379">
-      <tspan>name: </tspan>
-      <animate attributeName="opacity"
-               values="0;1"
+      <!-- Typing animation for command -->
+      <animate attributeName="textLength"
+               from="0" to="100"
                dur="0.5s"
-               begin="1.5s"
                fill="freeze"/>
     </text>
-    <text x="70" y="80" font-size="14">
+
+    <!-- Output text with typewriter animations -->
+    <text id="line1" x="20" y="80" font-size="14" opacity="0">
+      <tspan fill="#98c379">name: </tspan>
       <tspan>"Jordan Deklerk"</tspan>
       <animate attributeName="opacity"
-               values="0;1"
-               dur="0.5s"
-               begin="2s"
+               from="0" to="1"
+               begin="0.7s"
+               dur="0.1s"
+               fill="freeze"/>
+      <animate attributeName="textLength"
+               from="0" to="200"
+               begin="0.7s"
+               dur="0.3s"
                fill="freeze"/>
     </text>
     
-    <text x="20" y="110" font-size="14" fill="#98c379">
-      <tspan>role: </tspan>
-      <animate attributeName="opacity"
-               values="0;1"
-               dur="0.5s"
-               begin="2.5s"
-               fill="freeze"/>
-    </text>
-    <text x="70" y="110" font-size="14">
+    <text id="line2" x="20" y="110" font-size="14" opacity="0">
+      <tspan fill="#98c379">role: </tspan>
       <tspan>"Senior Data Scientist @ DICK's Sporting Goods"</tspan>
       <animate attributeName="opacity"
-               values="0;1"
-               dur="0.5s"
-               begin="3s"
+               from="0" to="1"
+               begin="1.1s"
+               dur="0.1s"
+               fill="freeze"/>
+      <animate attributeName="textLength"
+               from="0" to="400"
+               begin="1.1s"
+               dur="0.4s"
                fill="freeze"/>
     </text>
     
-    <text x="20" y="140" font-size="14" fill="#98c379">
-      <tspan>skills: </tspan>
-      <animate attributeName="opacity"
-               values="0;1"
-               dur="0.5s"
-               begin="3.5s"
-               fill="freeze"/>
-    </text>
-    <text x="80" y="140" font-size="14">
+    <text id="line3" x="20" y="140" font-size="14" opacity="0">
+      <tspan fill="#98c379">skills: </tspan>
       <tspan>["Python", "R", "SQL", "ML/AI", "GCP", "Databricks"]</tspan>
       <animate attributeName="opacity"
-               values="0;1"
-               dur="0.5s"
-               begin="4s"
+               from="0" to="1"
+               begin="1.6s"
+               dur="0.1s"
+               fill="freeze"/>
+      <animate attributeName="textLength"
+               from="0" to="450"
+               begin="1.6s"
+               dur="0.4s"
                fill="freeze"/>
     </text>
     
-    <text x="20" y="170" font-size="14" fill="#98c379">
-      <tspan>interests: </tspan>
-      <animate attributeName="opacity"
-               values="0;1"
-               dur="0.5s"
-               begin="4.5s"
-               fill="freeze"/>
-    </text>
-    <text x="100" y="170" font-size="14">
+    <text id="line4" x="20" y="170" font-size="14" opacity="0">
+      <tspan fill="#98c379">interests: </tspan>
       <tspan>["Bayesian ML", "Deep Learning", "Causal Inference"]</tspan>
       <animate attributeName="opacity"
-               values="0;1"
-               dur="0.5s"
-               begin="5s"
+               from="0" to="1"
+               begin="2.1s"
+               dur="0.1s"
+               fill="freeze"/>
+      <animate attributeName="textLength"
+               from="0" to="450"
+               begin="2.1s"
+               dur="0.4s"
                fill="freeze"/>
     </text>
     
-    <!-- New command prompt -->
-    <text x="20" y="200" font-size="14">
+    <!-- Final prompt -->
+    <text x="20" y="200" font-size="14" opacity="0">
       <tspan>$</tspan>
       <animate attributeName="opacity"
-               values="0;1;0"
-               dur="1.5s"
-               begin="5.5s"
+               from="0" to="1"
+               begin="2.6s"
+               dur="0.1s"
+               fill="freeze"/>
+      <animate attributeName="opacity"
+               values="1;0;1"
+               begin="2.7s"
+               dur="1s"
                repeatCount="indefinite"/>
     </text>
   </g>
