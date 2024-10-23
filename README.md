@@ -4,7 +4,7 @@
 
 <img src="animation-terminal.svg" width="720" alt="Terminal Introduction">
 
-- 🔭 I’m currently working on **Bayesian Media Mix Modeling**
+- 🔭 I’m currently working on **Bayesian Media Mix Modeling** and **Deep Learning for Retail Media**
 
 - 📫 How to reach me **jordan.deklerk@gmail.com**
 
