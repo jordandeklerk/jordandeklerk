@@ -6,26 +6,17 @@
       <stop offset="100%" style="stop-color:#2d2d2d" />
     </linearGradient>
     
-    <!-- Glow filter for text -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
     <!-- Matrix background pattern -->
     <pattern id="matrixPattern" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
-      <text x="0" y="10" fill="#00ff00" opacity="0.1" font-family="monospace" font-size="10">
+      <text x="0" y="10" fill="#00ff00" opacity="0.08" font-family="monospace" font-size="10">
         10
         <animate attributeName="y" from="-10" to="50" dur="3s" repeatCount="indefinite"/>
       </text>
-      <text x="20" y="30" fill="#00ff00" opacity="0.1" font-family="monospace" font-size="10">
+      <text x="20" y="30" fill="#00ff00" opacity="0.08" font-family="monospace" font-size="10">
         01
         <animate attributeName="y" from="-30" to="50" dur="2s" repeatCount="indefinite"/>
       </text>
-      <text x="40" y="20" fill="#00ff00" opacity="0.1" font-family="monospace" font-size="10">
+      <text x="40" y="20" fill="#00ff00" opacity="0.08" font-family="monospace" font-size="10">
         11
         <animate attributeName="y" from="-20" to="50" dur="2.5s" repeatCount="indefinite"/>
       </text>
@@ -34,7 +25,7 @@
 
   <!-- Terminal Window with gradient and matrix background -->
   <rect width="720" height="320" rx="10" fill="url(#terminalBg)"/>
-  <rect width="720" height="320" rx="10" fill="url(#matrixPattern)" opacity="0.1"/>
+  <rect width="720" height="320" rx="10" fill="url(#matrixPattern)" opacity="0.08"/>
   
   <!-- Terminal Header -->
   <rect width="720" height="25" rx="10" fill="#2d2d2d" opacity="0.9"/>
@@ -44,13 +35,13 @@
   <circle cx="40" cy="12.5" r="5" fill="#ffbd2e"/>
   <circle cx="60" cy="12.5" r="5" fill="#27c93f"/>
 
-  <!-- Text Elements -->
-  <g fill="#f0f0f0" font-family="Monaco, Consolas, monospace" filter="url(#glow)">
+  <!-- Text Elements with high contrast colors -->
+  <g fill="#f0f0f0" font-family="Monaco, Consolas, monospace">
     <!-- Initial prompt -->
     <text x="20" y="50" font-size="14">$</text>
     
     <!-- Command -->
-    <text x="35" y="50" font-size="14" fill="#63c5da" opacity="0">
+    <text x="35" y="50" font-size="14" fill="#7fd4ff" opacity="0">
       about.jordan
       <animate attributeName="opacity"
                from="0" to="1"
@@ -61,8 +52,8 @@
 
     <!-- Output text with sequential fade-ins -->
     <text id="line1" x="20" y="80" font-size="14" opacity="0">
-      <tspan fill="#98c379">name: </tspan>
-      <tspan fill="#e6c07b">"Jordan Deklerk"</tspan>
+      <tspan fill="#b8e0a7">name: </tspan>
+      <tspan fill="#ffd694">"Jordan Deklerk"</tspan>
       <animate attributeName="opacity"
                from="0" to="1"
                begin="0.4s"
@@ -71,8 +62,8 @@
     </text>
 
     <text id="line2" x="20" y="110" font-size="14" opacity="0">
-      <tspan fill="#98c379">role: </tspan>
-      <tspan fill="#e6c07b">"Senior Data Scientist @ DICK's Sporting Goods"</tspan>
+      <tspan fill="#b8e0a7">role: </tspan>
+      <tspan fill="#ffd694">"Senior Data Scientist @ DICK's Sporting Goods"</tspan>
       <animate attributeName="opacity"
                from="0" to="1"
                begin="0.7s"
@@ -81,8 +72,8 @@
     </text>
 
     <text id="line3" x="20" y="140" font-size="14" opacity="0">
-      <tspan fill="#98c379">skills: </tspan>
-      <tspan fill="#61afef">["Python", "R", "SQL", "ML/AI", "GCP", "Databricks"]</tspan>
+      <tspan fill="#b8e0a7">skills: </tspan>
+      <tspan fill="#7fd4ff">["Python", "R", "SQL", "ML/AI", "GCP", "Databricks"]</tspan>
       <animate attributeName="opacity"
                from="0" to="1"
                begin="1.0s"
@@ -91,8 +82,8 @@
     </text>
 
     <text id="line4" x="20" y="170" font-size="14" opacity="0">
-      <tspan fill="#98c379">interests: </tspan>
-      <tspan fill="#61afef">["Bayesian ML", "Deep Learning", "Causal Inference"]</tspan>
+      <tspan fill="#b8e0a7">interests: </tspan>
+      <tspan fill="#7fd4ff">["Bayesian ML", "Deep Learning", "Causal Inference"]</tspan>
       <animate attributeName="opacity"
                from="0" to="1"
                begin="1.3s"
@@ -116,9 +107,8 @@
     </text>
   </g>
 
-  <!-- Additional matrix rain in the background -->
-  <g opacity="0.05">
-    <!-- Multiple columns of falling characters -->
+  <!-- Background matrix rain -->
+  <g opacity="0.04">
     <g id="matrixColumn1" transform="translate(150,0)">
       <text x="0" y="0" fill="#00ff00" font-family="monospace" font-size="10">
         10110
