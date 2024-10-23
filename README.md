@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jordandeklerk.jordandeklerk)
 
-<img src="animated-terminal.svg" width="720" alt="Terminal Introduction">
+<img src="animation-terminal.svg" width="720" alt="Terminal Introduction">
 
 - 🔭 I’m currently working on **Bayesian Media Mix Modeling**
 
