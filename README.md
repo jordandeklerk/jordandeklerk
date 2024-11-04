@@ -11,7 +11,7 @@
 
 
 
-<h3 align="left" style="font-family: 'Poppins', sans-serif;" >🌐Connect with me:</h3>
+<h3 align="left" style="font-family: 'Poppins', sans-serif;" >🌐 Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jordandeklerk/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
 <a href="mailto:jordan.deklerk@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;   
