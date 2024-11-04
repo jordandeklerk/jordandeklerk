@@ -27,7 +27,7 @@
 </p>
 <!-- <hr></hr> -->
 <!-- <details> -->
-<div align="center" width="50"><br>
+<div align="center" width="50">
 <h2 align="center" style="font-family: 'Poppins', sans-serif;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats⚡ </b>
 </h2>
   
