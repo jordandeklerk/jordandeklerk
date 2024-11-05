@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=100&lines=Data+Scientist;Open+Source+Contributor;AI/ML+Enthusiast;" alt="Typing Animation">
 </div>
 
-<img align= "right" alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+<img align= "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 - 🔭 I’m currently working on Bayesian Media Mix Modeling and Deep Learning for Retail Media.
 - 🚀 I'm interested in deep learning, Bayesian machine learning, and causal inference.
