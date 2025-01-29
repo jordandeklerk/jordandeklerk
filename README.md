@@ -6,8 +6,8 @@
 
 <img align= "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
-- 🔭 I’m currently working on Bayesian Media Mix Modeling and Deep Learning for Retail Media.
-- 🚀 I'm interested in deep learning, Bayesian machine learning, and causal inference.
+- 🔭 I’m currently working building a python platform for adtech experimentation, segmentation, and measurement, and Bayesian Media Mix Modeling.
+- 🚀 I'm interested in Deep Learning, Bayesian Machine Learning, and Causal Inference.
 
 <h3 align="left" style="font-family: 'Poppins', sans-serif;" >🌐 Connect with me</h3>
 <p align="left">
