@@ -8,7 +8,7 @@
 
 - 🔭 Working on building a python platform for ad tech experimentation, segmentation, and measurement.
 - 🔭 Working on Bayesian Media Mix Modeling.
-- 🚀 Interested in Deep Learning, Bayesian Machine Learning, and Causal Inference.
+- 🚀 Interested in Deep Learning, Bayesian ML, and Causal Inference.
 
 <h3 align="left" style="font-family: 'Poppins', sans-serif;" >🌐 Connect with me</h3>
 <p align="left">
