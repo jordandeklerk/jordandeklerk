@@ -23,8 +23,8 @@
 <h2 align="center" style="font-family: 'Poppins', sans-serif;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats⚡ </b>
 </h2>
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img height="195px" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordandeklerk&layout=compact&theme=outrun&hide=jupyter%20notebook&card_width=450&langs_count=6" alt="jordandeklerk" />
-  <img height="195px" width="42%" src="https://github-readme-stats.vercel.app/api?username=jordandeklerk&show_icons=true&locale=en&theme=outrun" alt="jordandeklerk" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordandeklerk&show_icons=true&locale=en&layout=compact&theme=outrun&hide=jupyter%20notebook" alt="jordandeklerk" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jordandeklerk&show_icons=true&locale=en&theme=outrun" alt="jordandeklerk" />
 </div>
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jordandeklerk&bg_color=282c34&color=FFD700&line=FFD700&point=FFFFFF&area_color=FFD700&title_color=FFD700&border_radius=20px"/>
 </div>
