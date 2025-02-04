@@ -24,7 +24,7 @@
 </h2>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img height="195px" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordandeklerk&show_icons=true&locale=en&layout=compact&theme=outrun&hide=jupyter%20notebook&card_width=320" alt="jordandeklerk" />
+  <img height="195px" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordandeklerk&show_icons=true&locale=en&layout=compact&theme=outrun&hide=jupyter%20notebook" alt="jordandeklerk" />
   <img height="195px" width="42%" src="https://github-readme-stats.vercel.app/api?username=jordandeklerk&show_icons=true&locale=en&theme=outrun" alt="jordandeklerk" />
 </div>
 
