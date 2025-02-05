@@ -3,9 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=100&lines=Data+Scientist;Open+Source+Contributor;AI/ML+Enthusiast;" alt="Typing Animation">
 </div>
 <img align= "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+
 - 🔭 Working on building a python platform for ad tech experimentation, segmentation, and measurement.
 - 🔭 Working on Bayesian Media Mix Modeling.
 - 🚀 Interested in Deep Learning, Bayesian ML, and Causal Inference.
+  
 <h3 align="left" style="font-family: 'Poppins', sans-serif;" >🌐 Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jordandeklerk/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-FFB800?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
