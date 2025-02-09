@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=100&lines=Data+Scientist;Open+Source+Contributor;AI/ML+Enthusiast;" alt="Typing Animation">
 </div>
-<img align= "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+<img align= "right" alt="coding" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 
 - 🔭 Working on building a python platform for ad tech experimentation, segmentation, and measurement.
 - 🔭 Working on Bayesian Media Mix Modeling.
