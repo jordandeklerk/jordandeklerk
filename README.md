@@ -4,7 +4,7 @@
 </div>
 <img align= "right" alt="coding" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 
-- 🔭 Working on building a python platform for ad tech experimentation, segmentation, and measurement.
+- 🔭 Working on causal inference for ad tech experimentation and measurement.
 - 🔭 Working on Bayesian Media Mix Modeling.
 - 🚀 Interested in Causal Inference, Deep Learning, and Bayesian Modeling.
   
