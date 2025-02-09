@@ -1,6 +1,6 @@
 # Hello, I'm Jordan 👋
 <div align="center" style="margin-top: -20px">  <!-- Reduced margin -->
-  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=70&lines=Data+Scientist;Open+Source+Contributor;AI/ML+Enthusiast;" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=70&lines=Data+Scientist;Open+Source+Contributor;AI/ML+Practitioner;" alt="Typing Animation">
 </div>
 <img align="right" alt="coding" width="200" height="200" style="margin-top: -50px" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 
