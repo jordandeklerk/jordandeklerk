@@ -1,8 +1,8 @@
 # Hello, I'm Jordan 👋
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=100&lines=Data+Scientist;Open+Source+Contributor;AI/ML+Enthusiast;" alt="Typing Animation">
+<div align="center" style="margin-top: -20px">  <!-- Reduced margin -->
+  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=70&lines=Data+Scientist;Open+Source+Contributor;AI/ML+Enthusiast;" alt="Typing Animation">
 </div>
-<img align= "right" alt="coding" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+<img align="right" alt="coding" width="200" height="200" style="margin-top: -50px" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 
 - 🔭 Working on causal inference for ad tech experimentation and measurement.
 - 🔭 Working on Bayesian Media Mix Modeling.
@@ -27,6 +27,3 @@
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordandeklerk&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook" alt="jordandeklerk" />
   <img src="https://github-readme-stats.vercel.app/api?username=jordandeklerk&show_icons=true&locale=en&theme=vision-friendly-dark" alt="jordandeklerk" />
-<!-- </div>
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jordandeklerk&bg_color=282c34&color=FFD700&line=FFD700&point=FFFFFF&area_color=FFD700&title_color=FFD700&border_radius=20px"/>
-</div> -->
