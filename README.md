@@ -30,7 +30,7 @@
 </h2>
 <div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 10px;">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=jordandeklerk&show_icons=true&locale=en&theme=vision-friendly-dark&height=200" alt="jordandeklerk" />
-  <img width="400" src="https://streak-stats.demolab.com?user=jordandeklerk&theme=vision-friendly-dark&mode=weekly" alt="GitHub Streak" />
-</div>
+<!--   <img width="400" src="https://streak-stats.demolab.com?user=jordandeklerk&theme=vision-friendly-dark&mode=weekly" alt="GitHub Streak" /> -->
+<!-- </div> -->
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordandeklerk&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook" alt="jordandeklerk" />
 </div>
