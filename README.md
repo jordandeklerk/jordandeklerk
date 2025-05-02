@@ -6,6 +6,7 @@
 
 - 🔭 Working on causal inference for ad tech experimentation and measurement.
 - 🔭 Working on Bayesian Media Mix Modeling.
+- 🔭 Contributing to open-source software.
 - 🚀 Interested in Causal Inference, Deep Learning, and Bayesian Modeling.
   
 <h3 align="left" style="font-family: 'Poppins', sans-serif;" >🌐 Connect with me</h3>
